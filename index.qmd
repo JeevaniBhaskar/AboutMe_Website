@@ -1,0 +1,15 @@
+---
+title: "About ME"
+---
+
+```         
+                  # ^~[**Hello! Welcome to my About Me page!**]{.underline}~^
+```
+
+![](images/Photo.jpg){fig-align="center" width="161"}
+
+My name is Jeevani Bhaskar, and I'm from Bangalore, India. I graduated with a Bachelor's in Telecommunication Engineering in 2022, earning a GPA of 8.5/10. Currently, I’m pursuing a Master’s in Data Analytics Engineering at George Mason University in Virginia, USA.
+
+I began my career as a Data Scientist Trainee at TurningMinds.AI, where I worked for a year, followed by a role as a Business Intelligence Developer at eMpulse Global for ten months. Transitioning from an electronics background to data analytics was challenging, but it was a choice driven by my passion for this field. I dedicated myself to learning everything from the ground up, which has led me to continue my studies in this area.
+
+One thing I take pride in is my resilience. No matter how tough the journey gets, I never give up; instead, I push harder to achieve my goals. Studying in the USA has been a dream of mine since middle school, and I’ve fought diligently to make it a reality. Today, I’m proud to be here, pursuing my aspirations.

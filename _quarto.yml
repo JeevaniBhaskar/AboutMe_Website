@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "About ME"
+  navbar:
+    Left:
+      - text: "About ME!"     
+        href: "index.qmd"
+      - text: "Interests"
+        href: "Interests.qmd" 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: left
+
+
+
