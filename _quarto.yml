@@ -4,11 +4,11 @@ project:
 website:
   title: "About ME"
   navbar:
-    Left:
+    left:  
       - text: "About ME!"     
-        href: "index.qmd"
+        href: "index.html"  
       - text: "Interests"
-        href: "Interests.qmd" 
+        href: "Interests.html"
 
 format:
   html:
@@ -16,6 +16,3 @@ format:
     css: styles.css
     toc: true
     toc-location: left
-
-
-
