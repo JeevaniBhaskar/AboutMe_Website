@@ -2,6 +2,7 @@ project:
   type: website
 output-dir: _site
 website:
+  output-dir: docs
   navbar:
     left:  
       - text: "About ME!"     
