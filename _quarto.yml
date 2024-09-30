@@ -1,14 +1,13 @@
 project:
   type: website
-
+output-dir: _site
 website:
-  title: "About ME"
   navbar:
     left:  
       - text: "About ME!"     
-        href: "index.html"  
-      - text: "Interests"
-        href: "Interests.html"
+        href: index.qmd  
+      - text: "My Interests"
+        href: My Interests.qmd
 
 format:
   html:
@@ -16,3 +15,5 @@ format:
     css: styles.css
     toc: true
     toc-location: left
+    
+

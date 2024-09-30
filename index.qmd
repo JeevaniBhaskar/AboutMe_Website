@@ -3,7 +3,7 @@ title: "About ME"
 ---
 
 ```         
-                  # ^~[**Hello! Welcome to my About Me page!**]{.underline}~^
+                          Hello! Welcome to my About Me page!
 ```
 
 ![](images/Photo.jpg){fig-align="center" width="161"}
