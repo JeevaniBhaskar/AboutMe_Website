@@ -1,10 +1,8 @@
 project:
   type: website
+  output-dir: _site
+website:
   output-dir: docs
-  
-website: 
-  title: "My Personal website"
-  
   navbar:
     left:  
       - text: "About ME!"     
