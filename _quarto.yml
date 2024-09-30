@@ -1,12 +1,20 @@
 project:
   type: website
-
-website:
-  title: "My Personal Website"
+  output-dir: docs
+  
+website: 
+  title: "My Personal website"
+  
   navbar:
-    left:
-      - text: "About Me"
-        href: "index.qmd"          
+    left:  
+      - text: "About ME!"     
+        href: Introduction.qmd  
       - text: "My Interests"
-        href: "My Interests.qmd"   
-theme: "cosmo"
+        href: Hobbies.qmd
+
+format:
+  html:
+    theme: cosmo
+    #css: styles.css
+    toc: true
+    toc-location: left

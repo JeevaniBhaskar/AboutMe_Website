@@ -1,0 +1,33 @@
+---
+title: "Interests"
+author: "Jeevani Bhaskar"
+editor: visual
+---
+
+Welcome to My World of Passion and Creativity!
+
+Dive into my vibrant universe, where classical music, travel adventures, stunning interior design, and the joys of gardening intertwine in a symphony of inspiration!
+
+🎶 Classical Music Aficionado
+
+![](Photos/1.jpeg){fig-align="center"}
+
+For over 13 transformative years, I’ve immersed myself in the enchanting realm of Carnatic classical music, gracing the stage in more than 30 exhilarating performances and competitions. My passion doesn’t stop there; I revel in the rich textures of folk music and a myriad of melodic genres, constantly seeking the next musical thrill!
+
+🌍 Voyager
+
+![](Photos/4.jpeg){fig-align="center"}
+
+From a young age, the call of the open road has been my guiding star! I've explored the majestic landscapes of 11 incredible states, with countless unforgettable journeys across India. Whether it’s thrilling road trips or leisurely train rides, I thrive on the exhilaration of travel. With a knack for languages, I proudly converse in five distinct tongues, enhancing my cultural experiences wherever I go!
+
+🏡 Dream Home Designer
+
+![](Photos/2.jpeg){fig-align="center"}
+
+Interior decoration is my canvas, and I dream of crafting the ultimate sanctuary! I’m captivated by bohemian charm and timeless elegance, with a special fondness for transforming kitchens and living rooms into masterpieces of comfort and style. Every detail is an opportunity to express creativity and elevate the ambiance of a home.
+
+🌿 Gardening Enthusiast
+
+![](Photos/3.jpeg){fig-align="center"}
+
+Gardening isn’t just a hobby; it’s my ultimate escape! My terrace garden is a lush oasis, bursting with vibrant flowers and homegrown vegetables. The simple joy of nurturing plants fills my heart with peace. There’s nothing quite like the earthy aroma of fresh soil or the satisfying feeling of mud between my fingers as I cultivate my green paradise. It’s my little slice of heaven!

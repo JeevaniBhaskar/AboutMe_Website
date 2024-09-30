@@ -3,10 +3,11 @@ title: "About ME"
 ---
 
 ```         
-                          Hello! Welcome to my About Me page!
+                      Hello! Welcome to my About Me page!
+                      
 ```
 
-![](images/WhatsApp Image 2024-09-28 at 18.00.08_b4075e0f.jpg){fig-align="center" width="184"}
+![](Photos/ME.jpg){fig-align="center" width="190"}
 
 My name is Jeevani Bhaskar, and I'm from Bangalore, India. I graduated with a Bachelor's in Telecommunication Engineering in 2022, earning a GPA of 8.5/10. Currently, I’m pursuing a Master’s in Data Analytics Engineering at George Mason University in Virginia, USA.
 
